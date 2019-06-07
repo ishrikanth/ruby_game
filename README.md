@@ -17,6 +17,6 @@ gem install minigl
 
 Finally
 ```
-**ruby my_game.rb**
+ruby my_game.rb
 ```
 
