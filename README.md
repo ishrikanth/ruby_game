@@ -1,4 +1,4 @@
-**Installing MiniGL’s dependencies
+## Installing MiniGL’s dependencies
 
 
 sudo apt-get install build-essential libsdl2-dev libsdl2-ttf-dev libpango1.0-dev libgl1-mesa-dev libopenal-dev libsndfile-dev libmpg123-dev libgmp-dev
@@ -6,7 +6,7 @@ sudo apt-get install build-essential libsdl2-dev libsdl2-ttf-dev libpango1.0-dev
 
 gem install gosu
 
-Installing MiniGL
+### Installing MiniGL
 
 gem install minigl
 
