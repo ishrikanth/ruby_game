@@ -15,7 +15,7 @@ gem install gosu
 gem install minigl
 ```
 
-Finally
+**Finally**
 ```
 ruby my_game.rb
 ```
