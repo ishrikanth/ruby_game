@@ -8,11 +8,11 @@ sudo apt-get install build-essential libsdl2-dev libsdl2-ttf-dev libpango1.0-dev
 
 **gem install gosu**
 
-#### Installing MiniGL
+### Installing MiniGL
 
 **gem install minigl**
 
 Finally
 
-ruby my_game.rb
+**ruby my_game.rb**
 
